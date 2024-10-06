@@ -23,6 +23,5 @@ let state;
 // type of object is null
 
 
-
-console.log(typeof age);
+console.log(type age);
 
